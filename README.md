@@ -23,7 +23,7 @@ When brought back online:
 * [Questions](#questions)
 
 ## Usage
-Visit the deployed Heroku link here: https://budget-tracker-ausley.herokuapp.com/ 
+Visit the deployed Heroku link here: https://cryptic-thicket-27255.herokuapp.com/
 
 Then, insert the name and amount of your transaction, and select whether or not it will add or subtract from your funds. For example, if you were paid today, you would add that value to your funds. 
 
