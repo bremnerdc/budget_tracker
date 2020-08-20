@@ -38,10 +38,11 @@ You can also run "npm i" in your terminal, and once it has finished installing, 
 ## Finished Product
 View the deployed application via Heroku here: https://budget-tracker-ausley.herokuapp.com/
 
-View a brief demo of the application here: https://youtu.be/O24Xutr0-Pc 
+View a brief demo of the application here: https://www.youtube.com/watch?v=0gLlW-miOSE&feature=youtu.be
 
-![Sample Image 1](budget1.JPG)
-![Sample Image 2](budget2.jpg)
+![Screen Shot 2020-08-20 at 1 18 17 PM](https://user-images.githubusercontent.com/61300825/90821395-b0d08600-e2e7-11ea-82ad-564322c0a350.png)
+![Screen Shot 2020-08-20 at 1 18 28 PM](https://user-images.githubusercontent.com/61300825/90821419-bcbc4800-e2e7-11ea-8cbd-f6ffb0fd5370.png)
+
 
 ## Technologies
 * HTML
